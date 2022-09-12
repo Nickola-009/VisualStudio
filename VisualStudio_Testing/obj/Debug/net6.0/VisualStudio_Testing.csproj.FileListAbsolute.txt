@@ -99,3 +99,4 @@ C:\Users\Nikhill\Source\Repos\VisualStudio_Testing\VisualStudio_Testing\obj\Debu
 C:\Users\Nikhill\Source\Repos\VisualStudio_Testing\VisualStudio_Testing\obj\Debug\net6.0\VisualStudio_Testing.pdb
 C:\Users\Nikhill\Source\Repos\VisualStudio_Testing\VisualStudio_Testing\obj\Debug\net6.0\VisualStudio_Testing.genruntimeconfig.cache
 C:\Users\Nikhill\Source\Repos\VisualStudio_Testing\VisualStudio_Testing\obj\Debug\net6.0\ref\VisualStudio_Testing.dll
+C:\Users\Nikhill\Source\Repos\VisualStudio_Testing\VisualStudio_Testing\bin\Debug\net6.0\chromedriver.exe
